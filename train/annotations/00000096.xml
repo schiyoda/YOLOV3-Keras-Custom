@@ -1,0 +1,26 @@
+<annotation>
+	<folder>savedir</folder>
+	<filename>00000096.jpg</filename>
+	<path>/Users/chiyoda/work/bing/savedir/00000096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>86</ymin>
+			<xmax>256</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
